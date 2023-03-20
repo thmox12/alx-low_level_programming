@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- * main -A program that prints that size ofn various types
- * return 0 (sucess)
+ * main -A program that print a line using the printf function
+ * Return: 0 (Success)
  */
 int main(void)
 {
